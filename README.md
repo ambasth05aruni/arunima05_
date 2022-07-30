@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arunima Ambastha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 - 📫 How to reach me **ambasthaarunima0512@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
